@@ -1,6 +1,6 @@
-$Stock-price-prediction-LSTM
+#Stock-price-prediction-LSTM
 
-$$LSTM 
+##LSTM
 
 LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn!
 
